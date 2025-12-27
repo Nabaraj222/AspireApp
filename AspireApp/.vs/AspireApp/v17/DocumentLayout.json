@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nabar\\Desktop\\AspireApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACD6105-A1AF-4B82-AABF-91BBC0D98017}|AspireApp.AppHost\\AspireApp.AppHost.csproj|c:\\users\\nabar\\desktop\\aspireapp\\aspireapp.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACD6105-A1AF-4B82-AABF-91BBC0D98017}|AspireApp.AppHost\\AspireApp.AppHost.csproj|solutionrelative:aspireapp.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACD6105-A1AF-4B82-AABF-91BBC0D98017}|AspireApp.AppHost\\AspireApp.AppHost.csproj|c:\\users\\nabar\\desktop\\aspireapp\\aspireapp.apphost\\aspireapp.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3ACD6105-A1AF-4B82-AABF-91BBC0D98017}|AspireApp.AppHost\\AspireApp.AppHost.csproj|solutionrelative:aspireapp.apphost\\aspireapp.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA47FD19-33EC-F2F6-751C-44740E816D25}|AspireApp.ApiService\\AspireApp.ApiService.csproj|c:\\users\\nabar\\desktop\\aspireapp\\aspireapp.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA47FD19-33EC-F2F6-751C-44740E816D25}|AspireApp.ApiService\\AspireApp.ApiService.csproj|solutionrelative:aspireapp.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AspireApp.AppHost",
+              "DocumentMoniker": "C:\\Users\\nabar\\Desktop\\AspireApp\\AspireApp.AppHost\\AspireApp.AppHost.csproj",
+              "RelativeDocumentMoniker": "AspireApp.AppHost\\AspireApp.AppHost.csproj",
+              "ToolTip": "C:\\Users\\nabar\\Desktop\\AspireApp\\AspireApp.AppHost\\AspireApp.AppHost.csproj",
+              "RelativeToolTip": "AspireApp.AppHost\\AspireApp.AppHost.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-25T16:02:01.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nabar\\Desktop\\AspireApp\\AspireApp.ApiService\\Program.cs",
+              "RelativeDocumentMoniker": "AspireApp.ApiService\\Program.cs",
+              "ToolTip": "C:\\Users\\nabar\\Desktop\\AspireApp\\AspireApp.ApiService\\Program.cs",
+              "RelativeToolTip": "AspireApp.ApiService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T15:29:19.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppHost.cs",
+              "DocumentMoniker": "C:\\Users\\nabar\\Desktop\\AspireApp\\AspireApp.AppHost\\AppHost.cs",
+              "RelativeDocumentMoniker": "AspireApp.AppHost\\AppHost.cs",
+              "ToolTip": "C:\\Users\\nabar\\Desktop\\AspireApp\\AspireApp.AppHost\\AppHost.cs",
+              "RelativeToolTip": "AspireApp.AppHost\\AppHost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T12:36:47.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
